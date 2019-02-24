@@ -24,6 +24,7 @@ technique which I like most. Among a few of these are...
 - Clean Code and Refactoring
 - Microservice Architectures and Structures
 - Keeping flexible solutions simple
+- ... and daily things like tips and tricks to ease development.
 
 So whats to expect here, you'll find a loose coupled short and long articles written in a casual way about the 
 things I think about, work with and try to learn.

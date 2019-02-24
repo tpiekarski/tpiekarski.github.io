@@ -9,7 +9,7 @@ tags: [docker]
 
 # Writing Dockerfile
 
-## Defining stages
+# Defining stages
 
 # Building Image and running Container
 
