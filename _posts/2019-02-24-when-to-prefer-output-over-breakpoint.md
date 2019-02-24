@@ -1,8 +1,8 @@
 ---
 layout: post
 title: When to prefer output over breakpoints
-categories: [blog, debugging, office]
-tags: [debugging]
+categories: [blog, office]
+tags: [debugging, experience]
 ---
 
 *When do you prefer raw console output over using a debugger and setting breakpoints?*

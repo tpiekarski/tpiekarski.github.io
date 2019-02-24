@@ -6,6 +6,7 @@ permalink: /ideas/
 
 *Collection of some ideas for posts, projects and a like...*
 
+- CLI commands statistics and analyzer to optimize alias
 - Dockerizing C++ toolchain / Dockerizing RESTinio (Docker multi-stage builds)
 - Exception-driven development (example project the exception-al calculator)
 - How to write plug-ins for Gerrit (example project re-review marker)
