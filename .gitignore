@@ -1,12 +1,25 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# IDE
+/*.code-workspace
+/.vscode
+
+# OS-generated files
+ehthumbs.db
+Thumbs.db
 ._*
 .DS_Store
 .DS_Store?
 .Spotlight-V100
 .Trashes
+
+# Miscellaneous files
 *.7z
 *.bak
 *.class
-*.code-workspace
 *.com
 *.dll
 *.dmg
@@ -23,10 +36,3 @@
 *.tar
 *.zip
 *~
-ehthumbs.db
-Thumbs.db
-
-# Jekyll
-_site
-.sass-cache
-.jekyll-metadata
