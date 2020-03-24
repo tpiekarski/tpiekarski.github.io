@@ -19,8 +19,9 @@ That someone is at first I think me. With writing about the things I try out for
 understanding and perhaps get in touch with other developers out there. Developers which share the ideas, concepts and 
 technique which I like most. Among a few of these are...
 
-- Modern C++ Development
+- Modern C++, *Old-school* C and Linux Development
 - Unbiased Javascript Development
+- Mobile Development for Android and iOS
 - Clean Code and Refactoring
 - Microservice Architectures and Structures
 - Keeping flexible solutions simple
@@ -31,4 +32,4 @@ So whats to expect here, you'll find a loose coupled short and long articles wri
 things I think about, work with and try to learn.
 
 
-Thomas Piekarski, Spring 2019
+Thomas Piekarski, Spring 2019 and Spring 2020

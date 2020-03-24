@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+# [Linux Kernel Module Sandbox (LKM)](https://github.com/tpiekarski/lkm-sandbox)
+A sandbox for discovering, learning and testing Linux Kernel Module development.
+
+# [Android Sandbox](https://github.com/tpiekarski/android-sandbox)
+Another sandbox for learning and trying out Android development for following projects.
+
 # [DockerizedRESTinio](https://github.com/tpiekarski/dockerized-restinio)
 A project for running [RESTinio](https://github.com/Stiffstream/restinio), 
 an embedded and lightweight HTTP/Websocket server written in C++14 inside a 
