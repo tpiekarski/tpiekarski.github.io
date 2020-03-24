@@ -3,6 +3,10 @@ _site
 .sass-cache
 .jekyll-metadata
 
+# Ruby
+/.bundle
+/vendor
+
 # IDE
 /*.code-workspace
 /.vscode
