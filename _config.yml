@@ -23,6 +23,7 @@ exclude:
   - homepage.code-workspace
   - Gemfile
   - Gemfile.lock
+  - lab/*
   - node_modules
   - vendor/bundle/
   - vendor/cache/
