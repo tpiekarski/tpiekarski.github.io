@@ -50,7 +50,7 @@ through the body of the snippet and entering the important and custom pieces.
 			"snap"
 		],
 		"body": [
-			"That's a snippet to get that post going and showing how to control tab...",
+			"That's a snippet to show how to control tab...",
 			"1. ${1}",
 			"2. ${2:Second point}",
 			"3. ${3|Third point,3rd point,another point|}",
