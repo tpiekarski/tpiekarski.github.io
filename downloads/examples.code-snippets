@@ -1,0 +1,24 @@
+{
+	"First snippet": {
+		"scope": "markdown",
+		"prefix": [
+			"snip"
+		],
+		"body": "That's a snippet to get that post going...",
+		"description": "First example snippet"
+	},
+	"Second snippet": {
+		"scope": "markdown",
+		"prefix": [
+			"snap"
+		],
+		"body": [
+			"That's a snippet to get that post going and showing how to control tab...",
+			"1. ${1}",
+			"2. ${2:Second point}",
+			"3. ${3|Third point,3rd point,another point|}",
+			"${0}"
+		],
+		"description": "Second example snippet"
+	}
+}
