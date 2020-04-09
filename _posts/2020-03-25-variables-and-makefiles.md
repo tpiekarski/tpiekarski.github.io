@@ -79,7 +79,9 @@ Sure I am there is much more about Makefiles and variables and there are more di
 But for a first variable to be defined it will work :)
 
 # Downloads
-- [Makefile]({{ site.url }}/downloads/Makefile) containing all six examples
+- [Makefile-variables.mk]({{ site.url }}/downloads/Makefile-variables.mk) containing all six examples
+
+To check examples, run `make -f Makefile-variables.mk example-n`, where n is the number of one of the six examples.
 
 # Links
 - GNU make, [Using Variables](https://www.gnu.org/software/make/manual/html_node/Using-Variables.html)
