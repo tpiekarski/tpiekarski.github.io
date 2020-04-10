@@ -8,7 +8,8 @@ tags: [shell, alias, typo]
 *Did you ever thought of alias typos in your shell alias file?*
 
 Something like this. Well you could say: go and learn to type, but hey... :)
-```
+
+```sh
 alias ks="ls"
 alias ös="ls"
 alias öls="ls"
