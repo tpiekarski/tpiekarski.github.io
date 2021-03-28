@@ -1,4 +1,4 @@
-title: dlqx:development lab
+title: dlqx/development/lab
 author: Thomas Piekarski
 email: lab@dlqx.de
 description: >- 
@@ -9,6 +9,7 @@ url: "https://tpiekarski.github.io"
 timezone: Europe/Berlin
 encoding: utf-8
 incremental: false
+show_excerpts: true
 
 twitter_username: deloquencia
 github_username: tpiekarski

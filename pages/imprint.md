@@ -8,7 +8,7 @@ Legal disclosure and information in accordance with Section 5 TMG
 
 ### Contact Information
 
-**dlqx: development lab**  
+**dlqx/development/lab**  
 <http://www.dlqx.de/> | <https://tpiekarski.github.io/>  
 The lab is run by Thomas Piekarski &lt;<lab@dlqx.de>&gt;.  
 Further contact information can be provided upon request.
