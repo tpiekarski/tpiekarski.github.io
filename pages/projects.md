@@ -8,6 +8,14 @@ permalink: /projects/
 
 A sandbox for discovering, learning and testing Linux Kernel (Module) development.
 
+## [derl](https://github.com/tpiekarski/derl)
+
+A CLI utility for finding dead URLs inside a lot of files.
+
+## [pretty-printk](https://github.com/tpiekarski/pretty-printk)
+
+Pretty printk-ing inside the Linux Kernel 
+
 ## [DockerizedRESTinio](https://github.com/tpiekarski/dockerized-restinio)
 
 A project for running [RESTinio](https://github.com/Stiffstream/restinio),
