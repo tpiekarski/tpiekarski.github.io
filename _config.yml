@@ -14,7 +14,7 @@ twitter_username: deloquencia
 github_username: tpiekarski
 
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
